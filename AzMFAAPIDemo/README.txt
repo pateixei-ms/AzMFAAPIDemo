@@ -1,0 +1,1 @@
+Replace the cert key file in the 'pf\certs' folder with the one generated during the creation of your MFA auth provider

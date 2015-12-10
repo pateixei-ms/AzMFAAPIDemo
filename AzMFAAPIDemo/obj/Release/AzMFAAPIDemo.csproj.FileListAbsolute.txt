@@ -1,0 +1,6 @@
+C:\1D\Documents\Visual Studio 2013\Projects\AzMFAAPIDemo\AzMFAAPIDemo\obj\Release\AzMFAAPIDemo.csprojResolveAssemblyReference.cache
+C:\1D\Documents\Visual Studio 2013\Projects\AzMFAAPIDemo\AzMFAAPIDemo\bin\AzMFAAPIDemo.dll.config
+C:\1D\Documents\Visual Studio 2013\Projects\AzMFAAPIDemo\AzMFAAPIDemo\bin\AzMFAAPIDemo.dll
+C:\1D\Documents\Visual Studio 2013\Projects\AzMFAAPIDemo\AzMFAAPIDemo\bin\AzMFAAPIDemo.pdb
+C:\1D\Documents\Visual Studio 2013\Projects\AzMFAAPIDemo\AzMFAAPIDemo\obj\Release\AzMFAAPIDemo.dll
+C:\1D\Documents\Visual Studio 2013\Projects\AzMFAAPIDemo\AzMFAAPIDemo\obj\Release\AzMFAAPIDemo.pdb
